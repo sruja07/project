@@ -1,0 +1,24 @@
+# Maven
+target/
+*.ca
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# Eclipse metadata
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+
+# OS generated files
+.DS_Store
+Thumbs.db
